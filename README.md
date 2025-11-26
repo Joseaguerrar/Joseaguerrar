@@ -4,58 +4,57 @@
   <img src="thorfinn.jpg" alt="Banner de José Guerra" width="100%" />
 </p>
 
-<h1 align="center">👋 Hola, soy José Guerra</h1>
+<h1 align="center">👋 Hi, I'm José Guerra</h1>
 
 <p align="center">
-  Desarrollador apasionado por sistemas distribuidos, redes, simulaciones y optimización.  
-  Bienvenido a mi perfil de GitHub.
+  I'm a Computer Engineering student passionate about systems, distributed computing, networks, optimization, and              simulation.  
+  I enjoy exploring new technologies, building robust low-level solutions, and understanding how things work under the hood.
 </p>
 
 ---
 
-## 🚀 Sobre mí
+## 🚀 About Me
 
-- 🎓 Ingeniero en Computación  
-- 💡 Me encanta investigar sobre tecnología y aprender cosas nuevas  
-- 🔧 Trabajo en proyectos de:
-  - Simulación (MPI, OpenMP, modelos físicos)
-  - Redes (Sockets C++, SSL/TLS)
-  - Sistemas Operativos (NachOS, hilos, paginación, syscalls)
-  - Metaheurísticas (Simulated Annealing, GSA)
-  - Estructuras de datos y algoritmos
+- 🎓 Computer Engineering enthusiast  
+- 💡 Curious by nature — I love researching and learning about tech  
+- 🔧 I work on projects involving:
+  - Parallel and distributed simulations (OpenMP, MPI)
+  - Networking (sockets in C++, SSL/TLS, IPv6)
+  - Operating systems (NachOS: threads, paging, syscalls)
+  - Metaheuristics (Simulated Annealing, GSA)
+  - Data structures and algorithms  
+  - Parsing and compilers (PLY)
 
 ---
 
-## 🛠️ Tecnologías
+## 🛠️ Technologies & Tools
 
-**Lenguajes:**  
+**Languages:**  
 C, C++, Python, Bash, LaTeX, JavaScript
 
-**Temas:**  
-Sistemas operativos, redes, concurrencia, grafos, optimización, algoritmos avanzados
+**Topics / Interests:**  
+Operating systems, concurrency, computer networks, graph algorithms, optimization, simulation, low-level development
 
 ---
 
-## 📂 Proyectos destacados
+## 📂 Featured Projects
 
-🔹 **Simulador de transferencia de calor** (C + hilos + MPI)  
-🔹 **Servidor seguro SSL/TLS sobre IPv6 link-local**  
-🔹 **Analizador léxico y sintáctico con PLY**  
-🔹 **Sistema de archivos simulado en C++**  
-🔹 **Metaheurísticas para problemas NP–duros**
-
-*(Puedes agregar enlaces directos a tus repos.)*
+- 🔹 Heat Transfer Simulation (C + threads + MPI)  
+- 🔹 Secure SSL/TLS server over IPv6 link-local  
+- 🔹 Complex log parser using PLY (lexer + parser)  
+- 🔹 Simulated file system in C++  
+- 🔹 Metaheuristics for NP-hard scheduling problems  
 
 ---
 
-## ✨ Contacto
+## 📫 Contact
 
-📧 **Correo:** jose.guerra@example.com  
-🔗 **LinkedIn:** (tu enlace)  
-🌐 **Portafolio personal:** (opcional)
+**Email:** jose.guerra@example.com  
+**LinkedIn:** (your link here)  
+**Website / Portfolio:** (optional)
 
 ---
 
 <p align="center">
-  Gracias por visitar mi perfil ✨
+  Thanks for visiting my profile ✨
 </p>
