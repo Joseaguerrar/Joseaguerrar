@@ -94,30 +94,12 @@
 
 ## 🧩 Extra Technologies
 <p align="center">
-<!-- DBeaver (Beaver Icon) -->
-<div align="center" style="
-  display: inline-block;
-  padding: 10px;
-  margin: 8px;
-  border-radius: 12px;
-  border: 1px solid #e1e4e8;
-  background-color: #f8f9fb;
-">
-  <img src="https://dbeaver.com/img/dbeaver-head.png" width="45"/><br>
-</div>
+  <!-- DBeaver -->
+  <img src="https://dbeaver.com/img/dbeaver-head.png" width="45"/>
 
-<!-- ASM (Card) -->
-<div align="center" style="
-  display: inline-block;
-  padding: 10px;
-  margin: 8px;
-  border-radius: 12px;
-  border: 1px solid #e1e4e8;
-  background-color: #f8f9fb;
-">
-  <img src="https://img.icons8.com/color/48/cpu.png" width="45"/><br>
-  <sub><b>Assembly</b></sub>
-</div>
+  <!-- Assembly (black CPU icon as before) -->
+  <img src="https://img.icons8.com/ios-filled/50/processor.png" width="45"/>
+</p>
 
 </p>
 
