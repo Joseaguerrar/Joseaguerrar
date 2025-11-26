@@ -1,7 +1,7 @@
 
 <!-- Banner -->
 <p align="center">
-  <img src="assets/banner.png" alt="Banner de José Guerra" width="100%" />
+  <img src="thorfinn.png" alt="Banner de José Guerra" width="100%" />
 </p>
 
 <h1 align="center">👋 Hola, soy José Guerra</h1>
