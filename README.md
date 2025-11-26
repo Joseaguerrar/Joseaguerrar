@@ -7,8 +7,8 @@
 <h1 align="center">👋 Hi, I'm José Guerra</h1>
 
 <p align="center">
-  I'm a Computer Engineering student passionate about systems, distributed computing, networks, optimization, and              simulation.  
-  I enjoy exploring new technologies, building robust low-level solutions, and understanding how things work under the hood.
+  I'm a Computer Engineering student passionate about systems, distributed computing, networks, optimization, and simulation.  
+I enjoy exploring new technologies, building robust low-level solutions, and understanding how things work under the hood.
 </p>
 
 ---
