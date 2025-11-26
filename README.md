@@ -1,4 +1,3 @@
-
 <!-- Banner -->
 <p align="center">
   <img src="thorfinn-sheep.gif" alt="Banner de José Guerra" width="100%" />
@@ -8,7 +7,7 @@
 
 <p align="center">
   I'm a Computer Engineering student passionate about systems, distributed computing, networks, optimization, and simulation.  
-I enjoy exploring new technologies, building robust low-level solutions, and understanding how things work under the hood.
+  I enjoy exploring new technologies, building robust low-level solutions, and understanding how things work under the hood.
 </p>
 
 ---
@@ -19,7 +18,7 @@ I enjoy exploring new technologies, building robust low-level solutions, and und
 - 💡 Curious by nature — I love researching and learning about tech  
 - 🔧 I work on projects involving:
   - Parallel and distributed simulations (OpenMP, MPI)
-  - Networking (sockets in C++, SSL/TLS, IPv6)
+  - Networking (Sockets in C++, SSL/TLS, IPv6)
   - Operating systems (NachOS: threads, paging, syscalls)
   - Metaheuristics (Simulated Annealing, GSA)
   - Data structures and algorithms  
@@ -27,13 +26,100 @@ I enjoy exploring new technologies, building robust low-level solutions, and und
 
 ---
 
-## 🛠️ Technologies & Tools
+## 🧰 Tech Stack
 
-**Languages:**  
-C, C++, Python, Bash, LaTeX, JavaScript
+<table align="center">
+  <tr>
 
-**Topics / Interests:**  
-Operating systems, concurrency, computer networks, graph algorithms, optimization, simulation, low-level development
+  <!-- FRONTEND -->
+  <td align="center" width="25%">
+    <h3>Frontend</h3>
+    <!-- Blazor -->
+    <img src="https://raw.githubusercontent.com/dotnet/brand/main/logo/dotnet-logo.png" width="45"/>
+    <!-- JS -->
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45"/>
+    <!-- HTML -->
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" width="45"/>
+    <!-- CSS -->
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" width="45"/>
+  </td>
+
+  <!-- BACKEND -->
+  <td align="center" width="25%">
+    <h3>Backend / Systems</h3>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="45"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="45"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="45"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="45"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="45"/>
+  </td>
+
+  <!-- DATABASES -->
+  <td align="center" width="25%">
+    <h3>DBMS</h3>
+    <!-- PostgreSQL -->
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="45"/>
+    <!-- SQL Server -->
+    <img src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png" width="45"/>
+  </td>
+
+  <!-- DEVOPS -->
+  <td align="center" width="25%">
+    <h3>DevOps & Tools</h3>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="45"/>
+    <!-- VS Code -->
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="45"/>
+    <!-- Visual Studio -->
+    <img src="https://img.icons8.com/color/48/visual-studio--v2.png" width="45"/>
+  </td>
+
+  </tr>
+</table>
+
+---
+
+## 📚 Currently Learning
+<p align="center">
+  <!-- Kubernetes -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="50"/>
+  <!-- SSH (colorful icon) -->
+  <img src="https://img.icons8.com/color/48/console.png" width="45"/>
+</p>
+
+---
+
+## 🧩 Extra Technologies
+<p align="center">
+<!-- DBeaver (Beaver Icon) -->
+<div align="center" style="
+  display: inline-block;
+  padding: 10px;
+  margin: 8px;
+  border-radius: 12px;
+  border: 1px solid #e1e4e8;
+  background-color: #f8f9fb;
+">
+  <img src="https://dbeaver.com/img/dbeaver-head.png" width="45"/><br>
+</div>
+
+<!-- ASM (Card) -->
+<div align="center" style="
+  display: inline-block;
+  padding: 10px;
+  margin: 8px;
+  border-radius: 12px;
+  border: 1px solid #e1e4e8;
+  background-color: #f8f9fb;
+">
+  <img src="https://img.icons8.com/color/48/cpu.png" width="45"/><br>
+  <sub><b>Assembly</b></sub>
+</div>
+
+</p>
 
 ---
 
