@@ -50,7 +50,7 @@ Operating systems, concurrency, computer networks, graph algorithms, optimizatio
 ## 📫 Contact
 
 **Email:** joseaguerrar2017@gmail.com  
-**LinkedIn:** [LinkedInProfile](https://www.linkedin.com/in/joseguerra-cr/) 
+**LinkedIn:** [joseguerra-cr](https://www.linkedin.com/in/joseguerra-cr/) 
 
 ---
 
