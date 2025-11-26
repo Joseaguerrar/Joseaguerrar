@@ -55,5 +55,5 @@ Operating systems, concurrency, computer networks, graph algorithms, optimizatio
 ---
 
 <p align="center">
-  Thanks for visiting my profile ✨
+  Thanks for visiting my profile 🫡
 </p>
