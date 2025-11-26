@@ -115,13 +115,6 @@
 
 ---
 
-## 📫 Contact
-
-**Email:** joseaguerrar2017@gmail.com  
-**LinkedIn:** [joseguerra-cr](https://www.linkedin.com/in/joseguerra-cr/) 
-
----
-
 <p align="center">
   Thanks for visiting my profile 🫡
 </p>
